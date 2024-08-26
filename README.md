@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Mokau Moleko
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Assembly
+- 💞️ I’m looking to collaborate on Life Changing Projects
+- 📫 How to reach me mokaumoleko@gmail.com
+- 😄 Pronouns: Him/Himself
+- ⚡ Fun fact: I code with my left hand and debug with my right.
